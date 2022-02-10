@@ -1,1 +1,7 @@
 no.txt
+*.txt
+!2.txt
+/git-trading-1
+a/
+b/*.txt
+c/**/*.pdf
